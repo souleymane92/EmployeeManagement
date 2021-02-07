@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>utils/MyTextField.qml</file>
+        <file>utils/MyUnderline.qml</file>
+        <file>AppHeader.qml</file>
+        <file>contents/AddEmployee.qml</file>
+        <file>contents/Employee.qml</file>
+        <file>contents/EmployeeDetails.qml</file>
+        <file>contents/EmployeeList.qml</file>
+        <file>contents/UpdateEmployee.qml</file>
+    </qresource>
+</RCC>
