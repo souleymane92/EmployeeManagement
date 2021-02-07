@@ -1,3 +1,3 @@
-# EmployeeManagementApp
+# Simple EmployeeManagementApp
 
-# Developped with C++, Qt, QML and SQLite
+# A Great Demo of C++, Qt, QML and SQLite integration
